@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidChallenge</string>
+    <string name="network_error">Something went wrong, please try again</string>
+    <string name="station_title">Title: %s</string>
+    <string name="station_address">Charging station address: %s</string>
+    <string name="charging_number">Number of charging points: %d</string>
+</resources>
